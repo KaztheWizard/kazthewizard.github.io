@@ -1,0 +1,11 @@
+kazthewizard/
+├── index.html
+├── style.css
+├── music/
+│   ├── album-one/
+│   │   ├── cover.jpg
+│   │   ├── 01-track-name.mp3
+│   │   └── 02-track-name.mp3
+│   └── instrumentals/
+├── images/
+│   └── hero.jpg
