@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kaz the Wizard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="hero">
+    <div class="overlay">
+      <h1>Kaz the Wizard</h1>
+      <p class="tagline">
+        Healing, connection, and magic through sound.
+      </p>
+      <a href="#music" class="enter">Enter</a>
+    </div>
+  </header>
+
+  <section id="about">
+    <p>
+      For the past several years, I’ve been given the grace to create art,
+      music, and poetry as a means of healing and building community.
+      Inspired by 9th Wonder, Big K.R.I.T., Erick the Architect, J Dilla,
+      and many others.
+    </p>
+
+    <p>
+      The goal is simple: to heal, to connect, to create, and to honor the
+      culture that made space for this work to exist.
+      Join me, and let’s build something magical through sound.
+    </p>
+  </section>
+
+  <section id="music">
+    <h2>Music</h2>
+
+    <div class="track">
+      <h3>Track Title</h3>
+      <audio controls>
+        <source src="music/album-one/01-track-name.mp3" type="audio/mpeg">
+      </audio>
+      <a class="download" href="music/album-one/01-track-name.mp3" download>
+        Download
+      </a>
+    </div>
+  </section>
+
+  <section id="support">
+    <h2>Support</h2>
+    <p>
+      This music is shared freely.  
+      If it nourishes you and you have the means, you’re welcome to give back.
+    </p>
+
+    <div class="donations">
+      <a href="#" target="_blank">Venmo</a>
+      <a href="#" target="_blank">Cash App</a>
+      <a href="#" target="_blank">PayPal</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© Kaz the Wizard</p>
+  </footer>
+</body>
+</html>
